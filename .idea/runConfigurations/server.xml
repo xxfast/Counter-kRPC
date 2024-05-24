@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="server" type="JetRunConfigurationType">
+    <option name="MAIN_CLASS_NAME" value="kotlinx.rpc.sample.CounterApplicationKt" />
+    <module name="Counter-kRPC.server.main" />
+    <shortenClasspath name="NONE" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
